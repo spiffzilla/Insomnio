@@ -1,0 +1,9 @@
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\bin\Debug\insomnio.exe.config
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\bin\Debug\insomnio.exe
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\bin\Debug\insomnio.pdb
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.csprojResolveAssemblyReference.cache
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.frmInsomnio.resources
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.Properties.Resources.resources
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.csproj.GenerateResource.Cache
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.exe
+C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.pdb
