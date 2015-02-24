@@ -12,6 +12,7 @@ namespace insomnio
 {
     public partial class frmInsomnio : Form
     {
+        // Declare variables
         int moveX = 1;
         int delay = 240;
         int minTime = 1;

@@ -7,3 +7,6 @@ C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.Pro
 C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.csproj.GenerateResource.Cache
 C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.exe
 C:\Users\joergen.bertholdsson\Downloads\Insomnio\insomnio\obj\Debug\insomnio.pdb
+C:\Users\joergen.bertholdsson\Documents\GitHub\Insomnio\insomnio\bin\Debug\insomnio.exe.config
+C:\Users\joergen.bertholdsson\Documents\GitHub\Insomnio\insomnio\obj\Debug\insomnio.exe
+C:\Users\joergen.bertholdsson\Documents\GitHub\Insomnio\insomnio\obj\Debug\insomnio.pdb
